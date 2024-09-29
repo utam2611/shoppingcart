@@ -1,0 +1,19 @@
+
+.listproduct-product-icon{
+height: 100px;
+}
+
+.listproduct-remove-icon{
+    cursor: pointer;
+    margin: 20px;
+}
+@media (max-width:800px){
+    
+    .listproduct-remove-icon{
+        margin: 19px;
+    }
+
+    .listproduct-product-icon{
+        height: 60px;
+    }
+}
